@@ -1,0 +1,4 @@
+__pycache__/
+*.py[cod]
+weekly_review_yilian.backup_*.ipynb
+weekly_review_yilian.before_*.ipynb
