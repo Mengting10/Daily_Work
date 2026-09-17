@@ -1,0 +1,9 @@
+{
+  "schema_version": 1,
+  "query_started_at_utc": "2026-09-17T08:37:25.569289+00:00",
+  "query_completed_at_utc": "2026-09-17T08:37:31.974810+00:00",
+  "ticker_count": 1399,
+  "unclassified_tickers": [],
+  "fx_basis": "PX_LAST retrieved during this run; not historical trade-date FX",
+  "note": "查询时间不是行情时间。复制整个目录以在其他电脑复用；缺失资料不会默认填 1 或 USD。"
+}

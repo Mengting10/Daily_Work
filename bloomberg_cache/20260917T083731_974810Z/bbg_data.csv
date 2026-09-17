@@ -1,0 +1,1400 @@
+﻿bbg_ticker,Generic_Ticker,Contract_Size,Category,Currency,FX_Rate_to_USD
+AZBV26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+OATZ6 Comdty,OAT1 Comdty,100000.0,Bond,EUR,1.1472
+IKZ6 Comdty,IK1 Comdty,100000.0,Bond,EUR,1.1472
+JBZ6 Comdty,JB1 Comdty,100000000.0,Bond,JPY,0.006418
+JYZ6 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+DXZ6 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+XIDU6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+USZ6 Comdty,US1 Comdty,100000.0,Bond,USD,1.0
+CJPX26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+HGZ6 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+TYZ6 Comdty,TY1 Comdty,100000.0,Bond,USD,1.0
+WNZ6 Comdty,WN1 Comdty,100000.0,Bond,USD,1.0
+TUZ6 Comdty,TU1 Comdty,200000.0,Bond,USD,1.0
+CLZ6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+SCOU6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMNIDP 20261215 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20261118 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BBWF27 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+CJPV26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+SBH7 Comdty,SB1 Comdty,112000.0,Agriculture,USD,1.0
+HCTU6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20261215 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CDZ6 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+XUCZ6 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+KCZ6 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+AUAV6C 72 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+LMZSDP 20260916 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+NGX26 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+W Z6 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+LMZSDP 20261216 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOV6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+ZZBV6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+CNZ6 Comdty,CN1 Comdty,100000.0,Bond,CAD,0.715
+LMZSDP 20261211 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20261118 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20261021 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260916 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+GCV6C 4450 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCZ6 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+FVZ6 Comdty,FV1 Comdty,100000.0,Bond,USD,1.0
+SBV6 Comdty,SB1 Comdty,112000.0,Agriculture,USD,1.0
+LMNIDP 20261216 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BBWH27 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+AUAV6C 72.5 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+DFX6 Comdty,DF1 Comdty,10.0,Agriculture,USD,1.0
+CLV6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+RSF7 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+PFRX6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+LMNIDP 20270421 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20261207 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JWLV26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+CCZ6 Comdty,CC1 Comdty,10.0,Agriculture,USD,1.0
+LMZSDP 20261208 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20261021 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20261207 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20261005 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+MFSV6 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+JBU6 Comdty,JB1 Comdty,100000000.0,Bond,JPY,0.006418
+DXU6 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+UXV6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+ADZ6 Curncy,AD1 Curncy,100000.0,Currency,USD,1.0
+ADU6 Curncy,AD1 Curncy,100000.0,Currency,USD,1.0
+LMZSDP 20261204 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOX6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+AZBX26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMSNDP 20261001 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+JYU6 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+LMSNDP 20261203 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+OEZ6 Comdty,OE1 Comdty,100000.0,Bond,EUR,1.1472
+SCOF7 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+PLV6 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+XUCU6 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+XBV6 Comdty,XB1 Comdty,42000.0,Energy,USD,1.0
+G Z6 Comdty,G 1 Comdty,100000.0,Bond,GBP,1.3385
+CJPQ26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+CQDU26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+BOZ6 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+C Z6 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+CTZ6 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+LMSNDP 20261127 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20261120 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20261112 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20261104 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+BBWZ26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+ZZBZ6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+XBZ6 Comdty,XB1 Comdty,42000.0,Energy,USD,1.0
+PFRQ6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+ZZBQ6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+SCOQ6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+GCV6C 4650 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCV6C 4775 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+COF7 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+PFRF7 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+COZ6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20261127 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+RXZ6 Comdty,RX1 Comdty,100000.0,Bond,EUR,1.1472
+RXU6 Comdty,RX1 Comdty,100000.0,Bond,EUR,1.1472
+IKU6 Comdty,IK1 Comdty,100000.0,Bond,EUR,1.1472
+OATU6 Comdty,OAT1 Comdty,100000.0,Bond,EUR,1.1472
+XIDQ6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+AZBZ26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20261126 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SIU6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+AUAU6C 70.5 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+QSU6 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+USU6 Comdty,US1 Comdty,100000.0,Bond,USD,1.0
+LMZSDP 20261124 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20270120 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20261124 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20261021 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+COX6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+COV6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+TYU6 Comdty,TY1 Comdty,100000.0,Bond,USD,1.0
+WNU6 Comdty,WN1 Comdty,100000.0,Bond,USD,1.0
+QSX6 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+LMNIDP 20261120 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+TUU6 Comdty,TU1 Comdty,200000.0,Bond,USD,1.0
+CNU6 Comdty,CN1 Comdty,100000.0,Bond,CAD,0.715
+FVU6 Comdty,FV1 Comdty,100000.0,Bond,USD,1.0
+UXYZ6 Comdty,UXY1 Comdty,100000.0,Bond,USD,1.0
+UXYU6 Comdty,UXY1 Comdty,100000.0,Bond,USD,1.0
+G U6 Comdty,G 1 Comdty,100000.0,Bond,GBP,1.3385
+KCU6 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+ZZBU6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+SIZ6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+CTH7 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+LMZSDP 20260819 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260819 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+NQU6P 29000 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+PAU6 Comdty,PA1 Comdty,100.0,Precious Metal,USD,1.0
+LMSNDP 20260916 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+GCU6C 4200 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+DFU6 Comdty,DF1 Comdty,10.0,Agriculture,USD,1.0
+CCU6 Comdty,CC1 Comdty,10.0,Agriculture,USD,1.0
+CQDF27 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CQDZ26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CQDX26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CQDV26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+JWLU26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20261110 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20261110 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+KEU6 Comdty,KE1 Comdty,100000000.0,Bond,KRW,0.07213
+KAAU6 Comdty,KAA1 Comdty,100000000.0,Bond,KRW,0.07213
+LMSNDP 20261106 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMAHDP 20261106 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20261106 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260916 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+HWAU6 Index,HWA1 Index,5.0,Equity Index,USD,1.0
+CJPZ26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20261104 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+CJPF27 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+HWBU6 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+JADQ6C 64 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+CQDQ26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CJPN26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+AUAQ6C 70 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+PFRN6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+AZBU26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+SCON6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+MFSN6 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMSNDP 20261030 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20261021 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+TWTU6 Index,TWT1 Index,40.0,Equity Index,USD,1.0
+COU6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20261029 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20261029 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20261028 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMNIDP 20261028 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HGU6 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+S X6 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+LMZSDP 20261027 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ECU6 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+PFRU6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+GCU6C 4300 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+UXN6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+AZBQ26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+JWLQ26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+PLF7 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+W U6 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+XIDN6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+NQU6 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+XPTUSD 20260720 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+XPTUSD 20260716 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+KMU6 Index,KM1 Index,250000.0,Equity Index,KRW,0.07213
+LMNIDP 20260715 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+IACM7 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+IACU6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20261009 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260715 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20261009 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMNIDP 20261009 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20261008 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMSNDP 20260819 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMZSDP 20261008 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HIN6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+SIQ6C 65 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+CLU6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20261007 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20261007 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+RSX6 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+LMAHDP 20261006 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260715 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20261006 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20261002 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CQDN26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CJPM26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20261001 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+IACM6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+ZZBM6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+SCOM6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+UEAQ6P 1.135 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+SIQ6P 58.00 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMNIDP 20260929 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20260715 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+RTYU6 Index,RTY1 Index,50.0,Equity Index,USD,1.0
+UEAQ6P 1.125 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+LMCADP 20260929 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+JGSM6 Index,JGS1 Index,2.0,Equity Index,USD,1.0
+IACV6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+IACN6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+LMAHDP 20261118 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+NQU6P 28000 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+HCTM6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260925 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+QCU6 Comdty,QC1 Comdty,10.0,Agriculture,GBP,1.3385
+LMZSDP 20260923 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CLQ6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20260925 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260924 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260923 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260819 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+HCTZ6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+PLQ6C 1800 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+COQ6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+AUAQ6C 71.5 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+HIM6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+C N6C 600 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+C N6 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+SBN6 Comdty,SB1 Comdty,112000.0,Agriculture,USD,1.0
+COQ6C 110 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+PLN6 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+CJPU26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+UXM6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMAHDP 20260917 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+RTYM6 Index,RTY1 Index,50.0,Equity Index,USD,1.0
+HWBM6 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+CTN6 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+W N6 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+LMNIDP 20260915 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260617 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260915 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260911 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260915 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260731 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+HIM6C 27400 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMAHDP 20260911 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+NXU6 Index,NX1 Index,5.0,Equity Index,USD,1.0
+HWAM6 Index,HWA1 Index,5.0,Equity Index,USD,1.0
+XIDM6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+SIN6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMAHDP 20260910 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260910 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260910 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+NQM6P 29400 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+GCN6C 4600 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+HGN6 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+GCQ6 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMAHDP 20260909 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260909 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260908 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260908 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+AUAN6C 72 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+RSN6 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+XUCM6 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+ECM6 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+LMAHDP 20260904 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+DFN6 Comdty,DF1 Comdty,10.0,Agriculture,USD,1.0
+HGN6P 625 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+DXM6 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+LMSNDP 20260617 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+JADM6C 64 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+JADM6C 64.5 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+PFRZ6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+PFRV6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+NQM6 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+LMSNDP 20260715 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+HON6 Comdty,HO1 Comdty,42000.0,Energy,USD,1.0
+XBN6 Comdty,XB1 Comdty,42000.0,Energy,USD,1.0
+ZZBK6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+CJPK26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+IACK6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+SCOK6P 95 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOK6C 120 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+CQDM26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+PFRK6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+SCOK6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20260828 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+DATU6 Comdty,DAT1 Comdty,1000.0,Energy,USD,1.0
+AULU26 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+HCTK6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+CON6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+QSQ6 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+GCN6C 4800 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+AUAM6C 70.5 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+LMAHDP 20260827 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260714 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260827 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CLN6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+NXM6 Index,NX1 Index,5.0,Equity Index,USD,1.0
+XIDK6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+LMNIDP 20260821 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HCK6 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+HIK6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+GCM6 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMZSDP 20260820 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260617 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260819 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+UEAM6C 1.185 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+PAM6 Comdty,PA1 Comdty,100.0,Precious Metal,USD,1.0
+GCM6C 4800 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+UXK6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMNIDP 20260520 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260814 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20260814 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260814 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260520 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260813 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260813 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260813 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260812 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260811 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260811 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260617 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260807 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260617 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260807 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260806 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMNIDP 20260806 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+UEAK6C 1.175 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+JADK6C 64 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+TOPJ6 Comdty,TOP1 Comdty,25.0,Base Metal,USD,1.0
+CLM6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+CQDK26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+PFRJ6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+ZZBJ6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+MFSJ6 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+IACJ6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+CJPJ26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+SCOJ6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+GCM6C 4975 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMAHDP 20260730 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260630 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+SIM6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMZSDP 20260728 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+W K6 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+COM6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+HCTJ6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMNIDP 20260727 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260724 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260724 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260723 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+ORQ6 Comdty,OR1 Comdty,5.0,Chemicals,USD,1.0
+ORN6 Comdty,OR1 Comdty,5.0,Chemicals,USD,1.0
+HIJ6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMNIDP 20260722 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+S N6 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+SIK6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMNIDP 20260721 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+JADK6C 64.5 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+GCK6C 4900 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+XPTUSD 20260423 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+C K6C 500 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+RSK6 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+LMNIDP 20260720 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BBWG27 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+XPTUSD 20260421 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+LMPBDP 20260716 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260520 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+HGK6 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+BBWU26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+BBWQ26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+BBWN26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20260716 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+XPTUSD 20260420 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+UXJ6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+CTK6 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+LMCADP 20260714 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260520 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260714 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+ESM6 Index,ES1 Index,50.0,Equity Index,USD,1.0
+XPTUSD 20260416 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+LMAHDP 20260713 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260710 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260709 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260708 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260707 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+XPTUSD 20260414 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+LMNIDP 20260415 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMSNDP 20260709 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMNIDP 20260709 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+QSK6 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+LMAHDP 20260709 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260702 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260707 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+QSM6 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+LMPBDP 20260707 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260415 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260707 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260612 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SBK6 Comdty,SB1 Comdty,112000.0,Agriculture,USD,1.0
+S K6 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+LFAH6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LMZSDP 20260702 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+C K6 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+DFK6 Comdty,DF1 Comdty,10.0,Agriculture,USD,1.0
+CJPH26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20260701 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260701 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260505 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+CLK6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+ZZBH6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+PFRH6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+SCOH6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20260630 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260630 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+XPTUSD 20260722 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+HCTH6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+HIH6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260626 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260626 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260625 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260625 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+COK6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+GCJ6C 6600 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCJ6C 6300 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCJ6C 5900 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+XIDH6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+AZBN26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20260624 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BBWK26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+GCJ6 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+NGJ6C 3.5 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMNIDP 20260623 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260623 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260623 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+HWBH6 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+LMCADP 20260622 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260622 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+PLJ6 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+NQH6 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+LMZSDP 20260415 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260618 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JADJ6C 65.5 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+LMZSDP 20260518 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ESH6 Index,ES1 Index,50.0,Equity Index,USD,1.0
+LMCADP 20260415 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+SWBJ6C 132 Curncy,SWB1 Curncy,125000.0,Currency,USD,1.0
+HWAH6 Index,HWA1 Index,5.0,Equity Index,USD,1.0
+GCJ6C 5300 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+NGM26 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMNIDP 20260318 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+DMH6 Index,DM1 Index,5.0,Equity Index,USD,1.0
+LMCADP 20260616 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260318 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260520 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20260612 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMAHDP 20260612 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260520 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+XUCH6 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+LMNIDP 20260612 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LFAM6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LFAK6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LFAJ6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+NGJ26 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMAHDP 20260318 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+JWLK26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20260610 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+JWLJ26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMSNDP 20260318 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+AZBK26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20260609 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260512 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+ECH6 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+COZ6P 40 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+COZ6C 80 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20260605 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+ADH6 Curncy,AD1 Curncy,100000.0,Currency,USD,1.0
+JYH6 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+AZBJ26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+ZZBX6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+DXH6 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+LMCADP 20260604 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LFAG6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LMNIDP 20260603 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20260603 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260603 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20260420 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+XAGUSD 20260415 Curncy,XAGUSD Curncy,1.0,Precious Metal,USD,1.0
+AUAH6C 67 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+LMZSDP 20260602 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+TOEG6 Comdty,TOE1 Comdty,25.0,Base Metal,USD,1.0
+SCOG6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+NGJ6C 3.1 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+ZZBG6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+IACG6 Comdty,IAC1 Comdty,100.0,Ferrous,USD,1.0
+BBWH26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+COJ6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+JWLH26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20260526 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260511 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+JADJ6C 66 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+LMAHDP 20260526 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260428 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260413 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260526 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20260415 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMSNDP 20260413 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+GCJ6C 5600 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+HCTG6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260526 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HIG6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+SWBH6C 131.5 Curncy,SWB1 Curncy,125000.0,Currency,USD,1.0
+SIH6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+UXG6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMZSDP 20260513 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CTH6 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+SIJ6 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMZSDP 20260318 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260513 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260512 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260513 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+RSH6 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+LMNIDP 20260512 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HCG6 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260511 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+XIDG6 Curncy,XID1 Curncy,2000000.0,Currency,USD,1.0
+RXJ6P 126 Comdty,RX1 Comdty,100000.0,Bond,EUR,1.1472
+LMNIDP 20260508 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260508 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HGH6 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+KCH6 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+LMZSDP 20260505 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HUG6 Index,HU1 Index,10.0,Equity Index,HKD,0.12747
+LMAHDP 20260506 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+AZBH26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+BPH6 Curncy,BP1 Curncy,62500.0,Currency,USD,1.0
+DATK6 Comdty,DAT1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20260430 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LFAF6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LMAHDP 20260415 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260218 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+AUAG6C 67.5 Curncy,AUA1 Curncy,100000.0,Currency,USD,1.0
+LMNIDP 20260505 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260505 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260505 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+BBWF26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+AZBF26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+USH6P 115 Comdty,US1 Comdty,100000.0,Bond,USD,1.0
+LMAHDP 20260501 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260414 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260501 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260501 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260501 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMCADP 20260501 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260423 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+PAH6 Comdty,PA1 Comdty,100.0,Precious Metal,USD,1.0
+TOEF6 Comdty,TOE1 Comdty,25.0,Base Metal,USD,1.0
+ZZBF6 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+PFRF6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+SCOF6 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+USH6 Comdty,US1 Comdty,100000.0,Bond,USD,1.0
+LMZSDP 20260203 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260430 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMSNDP 20260430 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+XUF6 Index,XU1 Index,1.0,Equity Index,USD,1.0
+LMCADP 20260430 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260430 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+S H6 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+LMPBDP 20260429 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260429 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260429 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260414 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20260429 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CJPG26 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+HCTF6 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260427 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260413 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JADG6P 64 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+HCF6 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+JWLG26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20260427 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260427 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260421 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+GCG6C 5300 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LFAU6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LFAQ6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LFAN6 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+HUF6 Index,HU1 Index,10.0,Equity Index,HKD,0.12747
+GCG6C 5200 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMNIDP 20260423 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260423 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260324 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260416 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CQDJ26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+HOK6 Comdty,HO1 Comdty,42000.0,Energy,USD,1.0
+HOH6 Comdty,HO1 Comdty,42000.0,Energy,USD,1.0
+LMCADP 20260422 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260422 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260422 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BGAG6P 133.5 Curncy,BGA1 Curncy,62500.0,Currency,USD,1.0
+LMNIDP 20260422 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+GCG6C 4825 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCG6C 4800 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+BBWJ26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20260421 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260421 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260421 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HOG6 Comdty,HO1 Comdty,42000.0,Energy,USD,1.0
+CDH6 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+NGH6C 2.8 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMPBDP 20260416 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260420 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260420 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260420 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260420 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260127 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+AULK26 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+LMPBDP 20260316 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+GCG6 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMNIDP 20260218 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260420 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+AZBG26 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+GCG6C 4750 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMAHDP 20260416 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260416 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260121 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260121 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LHJ6 Comdty,LH1 Comdty,40000.0,Agriculture,USD,1.0
+LHG6 Comdty,LH1 Comdty,40000.0,Agriculture,USD,1.0
+LMCADP 20260416 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+BOH6 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+KOH6 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+LMAHDP 20260218 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMSNDP 20260414 Comdty,LMSNDY Comdty,5.0,Base Metal,USD,1.0
+LMZSDP 20260414 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260217 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260408 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CLG6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20260413 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HIF6 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+XPTUSD 20260114 Curncy,XPTUSD Curncy,1.0,Precious Metal,USD,1.0
+COH6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+CLH6 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+PFRG6 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+LMAHDP 20260409 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260409 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+ORJ6 Comdty,OR1 Comdty,5.0,Chemicals,USD,1.0
+BBWG26 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20260408 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260408 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260407 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260408 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260408 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260407 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260402 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260407 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260407 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20260407 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+AZBZ25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+UEAG6C 1.185 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+MFSZ5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+SCOZ5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+ZZBZ5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+TOEZ5 Comdty,TOE1 Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260331 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260331 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260331 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+UEAF6C 1.17 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+LMZSDP 20260324 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260330 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260330 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20260330 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260330 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+HIZ5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+HCTZ5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260323 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BGAG6P 132.5 Curncy,BGA1 Curncy,62500.0,Currency,USD,1.0
+XUZ5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+LMAHDP 20260324 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+PLF6 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+LMCADP 20260324 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260323 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260317 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HCZ5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+JADF6P 64 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+LMZSDP 20260319 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ERM6C 98.0625 Comdty,ER1 Comdty,1000000.0,Interest Rate,EUR,1.1472
+HWBZ5 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+AULF26 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+UXZ5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMZSDP 20260317 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+COG6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20260309 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260316 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260316 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+JWLF26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+ESZ5 Index,ES1 Index,50.0,Equity Index,USD,1.0
+NQZ5 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+DMZ5 Index,DM1 Index,5.0,Equity Index,USD,1.0
+LMCADP 20260316 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251217 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260312 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251217 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260311 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+UXF6 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+ECZ5 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+LMZSDP 20260310 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260310 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260303 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+DXZ5 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+XUCZ5 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+LMAHDP 20260305 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260305 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260303 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260123 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260305 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251217 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+UEAZ5C 1.16 Curncy,UEA1 Curncy,125000.0,Currency,USD,1.0
+LMZSDP 20260304 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260303 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260302 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260302 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LFAX5 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LMZSDP 20260105 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CQDZ25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CJPX25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+CAH6 Comdty,CA1 Comdty,50.0,Agriculture,EUR,1.1472
+PFRX5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+SCOX5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+ZZBX5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+MFSX5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20260227 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+XUX5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+LMZSDP 20260120 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260114 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260112 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260109 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260102 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SIZ5 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+HCTX5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMPBDP 20260225 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20260123 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260224 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251218 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JYZ5 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+BOZ5 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+KOZ5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+PAZ5 Comdty,PA1 Comdty,100.0,Precious Metal,USD,1.0
+LMZSDP 20260219 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+COF6 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+GCZ5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMPBDP 20260218 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20251211 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260210 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+MCYX5 Index,MCY1 Index,25.0,Equity Index,USD,1.0
+KCZ5 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+LMZSDP 20260213 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260213 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260123 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+JWLM26 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+JWLZ25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+HCX5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+BBWZ25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20260212 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251119 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20251215 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CQDF26 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+HIX5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMAHDP 20260206 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20251217 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+SFZ5 Curncy,SF1 Curncy,125000.0,Currency,USD,1.0
+LMZSDP 20251230 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260205 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LFAV5 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+LMZSDP 20260204 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CJPV25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20260203 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20260121 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+SMF6 Comdty,SM1 Comdty,100.0,Agriculture,USD,1.0
+LMZSDP 20260130 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOV5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+HCV5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+HGZ5 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+JWLX25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20260130 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+HCTV5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+FCF6 Comdty,FC1 Comdty,50000.0,Agriculture,USD,1.0
+CAZ5 Comdty,CA1 Comdty,50.0,Agriculture,EUR,1.1472
+SMZ5 Comdty,SM1 Comdty,100.0,Agriculture,USD,1.0
+LMZSDP 20251212 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HIV5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20260127 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BBWX25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+ADZ5 Curncy,AD1 Curncy,100000.0,Currency,USD,1.0
+LMZSDP 20260122 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251222 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+UXV5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMZSDP 20251119 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+NGF26 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+XUV5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+LMAHDP 20260121 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20260109 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20251216 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+NXZ5 Index,NX1 Index,5.0,Equity Index,USD,1.0
+CQDX25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+S X5 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+LMZSDP 20260115 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ZZBV5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+LMCADP 20260114 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20260107 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251015 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260106 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20260109 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20260102 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20260108 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LFAU5 Comdty,LFA1 Comdty,1000.0,Base Metal,USD,1.0
+CJPU25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+CQDV25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+CCZ5 Comdty,CC1 Comdty,10.0,Agriculture,USD,1.0
+ZZBU5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+PFRU5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+MFSU5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+SCOU5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+PFRV5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+HCTU5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20251229 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251208 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251205 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251229 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+XUU5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+LMZSDP 20251203 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251201 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251224 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251224 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251223 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCU5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMCADP 20251223 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+MFSV5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+PLV5 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+XAGUSD 20251027 Curncy,XAGUSD Curncy,1.0,Precious Metal,USD,1.0
+QSV5 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+LMZSDP 20251219 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HWBU5 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+LMZSDP 20251202 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+UXU5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMZSDP 20251216 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ESU5 Index,ES1 Index,50.0,Equity Index,USD,1.0
+NQU5 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+DMU5 Index,DM1 Index,5.0,Equity Index,USD,1.0
+LMCADP 20251212 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250917 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251015 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250917 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+BPZ5 Curncy,BP1 Curncy,62500.0,Currency,USD,1.0
+CDZ5 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+XUCU5 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+LMCADP 20251211 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+COZ5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+HIU5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+ECU5 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+JYU5 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+LMCADP 20251208 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+SBV5 Comdty,SB1 Comdty,5000.0,Agriculture,USD,1.0
+COX5 Comdty,CO1 Comdty,1000.0,Energy,SEK,0.101792
+W Z5 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+LMCADP 20251203 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251202 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+QSU5 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+BBWV25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20251202 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CQDU25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20251201 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251201 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+SCOQ5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+MFSQ5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20251015 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251128 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20251010 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20251008 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+HCTQ5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+AULU25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+LMPBDP 20251128 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+HUU5 Index,HU1 Index,10.0,Equity Index,HKD,0.12747
+HIQ5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMNIDP 20251126 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250917 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20251114 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251126 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251121 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251023 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251017 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+C Z5 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+HCQ5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20251113 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251112 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251121 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BBWU25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+SIU5 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+KOU5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+LMNIDP 20251120 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20251114 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+UXQ5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMCADP 20251120 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CCU5 Comdty,CC1 Comdty,10.0,Agriculture,USD,1.0
+LMNIDP 20251118 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250820 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251114 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+AULV25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20251112 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BPU5 Curncy,BP1 Curncy,62500.0,Currency,USD,1.0
+LMPBDP 20251107 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20251105 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+DXU5 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+LMZSDP 20251107 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251107 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20251106 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250812 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251106 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20251105 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251105 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+W U5 Comdty,W 1 Comdty,5000.0,Agriculture,USD,1.0
+CQDQ25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+XUQ5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+GCV5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+CLU5 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+CJPN25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+SCON5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20251031 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250905 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ZZBQ5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+HGU5 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+LMCADP 20251030 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251029 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251022 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HIN5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+XUN5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+HCTN5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+CJPQ25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+BGLV25 Comdty,BGL1 Comdty,10000.0,Energy,USD,1.0
+COU5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+HCN5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20251024 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CDU5 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+MFSN5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+AULQ25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+BBWQ25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+XAGUSD 20250818 Curncy,XAGUSD Curncy,1.0,Precious Metal,USD,1.0
+XAGUSD 20250826 Curncy,XAGUSD Curncy,1.0,Precious Metal,USD,1.0
+XAGUSD 20250815 Curncy,XAGUSD Curncy,1.0,Precious Metal,USD,1.0
+GCQ5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMNIDP 20251017 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250930 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20251017 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+UXN5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+LMZSDP 20251016 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+NGX25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+RTYU5 Index,RTY1 Index,50.0,Equity Index,USD,1.0
+BGLU25 Comdty,BGL1 Comdty,10000.0,Energy,USD,1.0
+BGLQ25 Comdty,BGL1 Comdty,10000.0,Energy,USD,1.0
+LMZSDP 20250923 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251014 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250909 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250819 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250716 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251010 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251010 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250820 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250919 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+RSF6 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+LMCADP 20250716 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251009 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251008 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20251008 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CAU5 Comdty,CA1 Comdty,50.0,Agriculture,EUR,1.1472
+LMNIDP 20251007 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20251007 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250807 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250806 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251003 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20251003 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250813 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+SFU5 Curncy,SF1 Curncy,125000.0,Currency,USD,1.0
+DFU5 Comdty,DF1 Comdty,10.0,Agriculture,USD,1.0
+KCU5 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+LMZSDP 20251002 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250716 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CJPM25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20251001 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250917 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20251001 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JWLQ25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+LMPBDP 20251001 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMPBDP 20250829 Comdty,LMPBDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250821 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250815 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250723 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOM5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOM5P 90 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOM5P 95 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+ZZBM5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+MFSM5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMAHDP 20250930 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250930 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250808 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+RSX5 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+LMZSDP 20250926 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HIM5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMNIDP 20250926 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HCTM5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+XUM5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+NXU5 Index,NX1 Index,5.0,Equity Index,USD,1.0
+LMZSDP 20250925 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CTZ5 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+HCM5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250924 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+PLN5 Comdty,PL1 Comdty,50.0,Precious Metal,USD,1.0
+ZZBN5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+NVU5 Curncy,NV1 Curncy,100000.0,Currency,USD,1.0
+AULN25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+BBWN25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+SBN5 Comdty,SB1 Comdty,5000.0,Agriculture,USD,1.0
+NQM5 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+ESM5 Index,ES1 Index,50.0,Equity Index,USD,1.0
+DMM5 Index,DM1 Index,5.0,Equity Index,USD,1.0
+LMCADP 20250918 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+HWBM5 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+SIN5 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+HGN5 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+LMAHDP 20250820 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+KOQ5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+QSN5 Comdty,QS1 Comdty,100.0,Energy,USD,1.0
+LMZSDP 20250618 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250916 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250916 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250916 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250912 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CQDN25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+XUCM5 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+KCN5 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+ADM5 Curncy,AD1 Curncy,100000.0,Currency,AUD,0.7113
+LMZSDP 20250911 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250709 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+PFRN5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+LMZSDP 20250910 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+JYM5 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+LMZSDP 20250708 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250618 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+JADM5C 70 Curncy,JAD1 Curncy,12500000.0,Currency,USD,1.0
+LMCADP 20250905 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+ECM5 Curncy,EC1 Curncy,125000.0,Currency,EUR,1.1472
+AZBU25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+AZBQ25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250904 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250724 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CQDM25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+ASOK25 Comdty,ASO1 Comdty,1000.0,Energy,USD,1.0
+BBWK25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+CJPK25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20250902 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250902 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250829 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+ZZBK5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+MFSK5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+SCOK5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMNIDP 20250829 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+S N5 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+HCTK5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+C N5 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+XUK5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+GCM5P 3250 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMZSDP 20250827 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCK5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+HIK5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+GCM5C 3450 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+BBWM25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+PFRM5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+AULM25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250822 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CDM5 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+UXK5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+BON5 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+BGLN25 Comdty,BGL1 Comdty,10000.0,Energy,USD,1.0
+SFM5 Curncy,SF1 Curncy,125000.0,Currency,USD,1.0
+GCM5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+KON5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+LMAHDP 20250819 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250819 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMAHDP 20250815 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250815 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250813 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250814 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250814 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+NVM5 Curncy,NV1 Curncy,100000.0,Currency,USD,1.0
+NXM5 Index,NX1 Index,5.0,Equity Index,USD,1.0
+ASOU25 Comdty,ASO1 Comdty,1000.0,Energy,USD,1.0
+ASOQ25 Comdty,ASO1 Comdty,1000.0,Energy,USD,1.0
+ASON25 Comdty,ASO1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20250813 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250812 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250716 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250812 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250812 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+DXM5 Curncy,DX1 Curncy,1000.0,Currency,USD,1.0
+LMNIDP 20250808 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BOU5 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+BPM5 Curncy,BP1 Curncy,62500.0,Currency,USD,1.0
+CLM5 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+NGM25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMCADP 20250806 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+GCM5P 3200 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCM5C 3430 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCM5C 3640 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+GCM5P 3215 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMZSDP 20250801 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250801 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250801 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+MFSJ5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMNIDP 20250730 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250618 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250730 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+SCOJ5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMCADP 20250729 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250729 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250626 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250707 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250728 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCTJ5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMNIDP 20250728 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+AULK25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20250728 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+XUJ5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+HIJ5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250725 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250725 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+RSN5 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+HCJ5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250724 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250723 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250618 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250521 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+PFRK5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+LMNIDP 20250723 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250722 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250722 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250722 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250620 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250611 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BOK5 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+SIK5 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMZSDP 20250717 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+KOK5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+NGK25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMCADP 20250707 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250701 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250717 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+UXJ5 Index,UX1 Index,1000.0,Equity Index,USD,1.0
+HWAM5 Index,HWA1 Index,5.0,Equity Index,USD,1.0
+LMNIDP 20250715 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250715 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250714 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250714 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250521 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250714 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250711 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250416 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+SMN5 Comdty,SM1 Comdty,100.0,Agriculture,USD,1.0
+SMK5 Comdty,SM1 Comdty,100.0,Agriculture,USD,1.0
+LMCADP 20250710 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250709 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250620 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+KCK5 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+LMNIDP 20250711 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250708 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+MCYJ5 Index,MCY1 Index,25.0,Equity Index,USD,1.0
+LMNIDP 20250710 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250707 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250710 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250709 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CLK5 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+XBK5 Comdty,XB1 Comdty,42000.0,Energy,USD,1.0
+LMZSDP 20250630 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOK5P 95 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOJ5P 95 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMAHDP 20250707 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250708 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+AZBK25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20250627 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250617 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250613 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250606 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250516 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250513 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+HGK5 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+COM5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20250703 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250703 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250703 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CON5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250613 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250422 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+AWEU25 Comdty,AWE1 Comdty,1000.0,Energy,USD,1.0
+AWEQ25 Comdty,AWE1 Comdty,1000.0,Energy,USD,1.0
+AWEN25 Comdty,AWE1 Comdty,1000.0,Energy,USD,1.0
+HOK5 Comdty,HO1 Comdty,42000.0,Energy,USD,1.0
+LMZSDP 20250702 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+BBWJ25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+ZZBJ5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+S K5 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+LMNIDP 20250701 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250701 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250512 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250611 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+USDCNY 20250703 NDF,USDCNY 20250703 NDF,1.0,Currency,USD,1.0
+USDCNY 20250507 NDF,USDCNY 20250507 NDF,1.0,Currency,USD,1.0
+CJPH25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20250630 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250509 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+SCOH5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOH5P 90 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOH5P 95 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+MFSH5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMNIDP 20250627 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250627 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250625 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+KOM5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+HIH5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+XUH5 Index,XU1 Index,1.0,Equity Index,USD,1.0
+HCTH5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMCADP 20250626 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250626 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250612 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCH5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMCADP 20250625 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+CJPJ25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250624 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250624 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250620 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BATM25 Comdty,BAT1 Comdty,1000.0,Energy,USD,1.0
+AWEM25 Comdty,AWE1 Comdty,1000.0,Energy,USD,1.0
+CTK5 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+ESH5 Index,ES1 Index,50.0,Equity Index,USD,1.0
+NQH5 Index,NQ1 Index,20.0,Equity Index,USD,1.0
+GCJ5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMNIDP 20250617 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250617 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250611 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250319 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250613 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250521 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250613 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMZSDP 20250610 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250605 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250612 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250603 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250612 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250523 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250604 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CQDJ25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+XUCH5 Curncy,XUC1 Curncy,100000.0,Currency,CNH,0.1491
+ECH5 Curncy,EC1 Curncy,125000.0,Currency,USD,1.0
+C K5 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+LMCADP 20250521 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+JYH5 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+ADH5 Curncy,AD1 Curncy,100000.0,Currency,USD,1.0
+LMZSDP 20250606 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250319 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250606 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+BPH5 Curncy,BP1 Curncy,62500.0,Currency,USD,1.0
+LMZSDP 20250512 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250605 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250527 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250605 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250604 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CQDH25 Comdty,CQD1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250603 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+USDCNY 20250410 NDF,USDCNY 20250410 NDF,1.0,Currency,USD,1.0
+SCOG5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+MFSG5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20250528 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250528 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250507 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250422 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+BBWH25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+ZZBH5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+LMNIDP 20250527 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+KCK5P 400 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+HIG5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250527 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCTG5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250514 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CDH5 Curncy,CD1 Curncy,100000.0,Currency,USD,1.0
+NGJ25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMZSDP 20250523 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250509 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250507 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250520 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+HCG5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+LMZSDP 20250416 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250519 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250519 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMAHDP 20250519 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+C H5 Comdty,C 1 Comdty,5000.0,Agriculture,USD,1.0
+S H5 Comdty,S 1 Comdty,5000.0,Agriculture,USD,1.0
+NGH25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMCADP 20250514 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250514 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250506 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250506 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250512 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250219 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+HWBH5 Index,HWB1 Index,2.0,Equity Index,USD,1.0
+LMZSDP 20250219 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+CLH5 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+LMCADP 20250319 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250424 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+COK5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+LMAHDP 20250509 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250509 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+PFRH5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+MCYG5 Index,MCY1 Index,25.0,Equity Index,USD,1.0
+PFRJ5 Comdty,PFR1 Comdty,100.0,Chemicals,USD,1.0
+HGH5 Comdty,HG1 Comdty,25000.0,Base Metal,USD,1.0
+LMZSDP 20250502 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250506 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+RSK5 Comdty,RS1 Comdty,20.0,Agriculture,CAD,0.715
+SBK5 Comdty,SB1 Comdty,112000.0,Agriculture,USD,1.0
+LMNIDP 20250423 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+KCH5 Comdty,KC1 Comdty,37500.0,Agriculture,USD,1.0
+BBWF25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+MFSF5 Comdty,MFS1 Comdty,100.0,Ferrous,USD,1.0
+ZZBF5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+SCOF5P 90 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOF5 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SIH5 Comdty,SI1 Comdty,5000.0,Precious Metal,USD,1.0
+LMNIDP 20250422 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250430 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+AULH25 Comdty,AUL1 Comdty,1000.0,Energy,USD,1.0
+BCAH25 Comdty,BCA1 Comdty,1000.0,Energy,USD,1.0
+LMZSDP 20250428 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250423 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+NXH5 Index,NX1 Index,5.0,Equity Index,USD,1.0
+HCTF5 Index,HCT1 Index,50.0,Equity Index,HKD,0.12747
+BOH5 Comdty,BO1 Comdty,60000.0,Agriculture,USD,1.0
+JWLH25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+HIF5 Index,HI1 Index,50.0,Equity Index,HKD,0.12747
+GCG5 Comdty,GC1 Comdty,100.0,Precious Metal,USD,1.0
+LMNIDP 20250417 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CLG5 Comdty,CL1 Comdty,1000.0,Energy,USD,1.0
+Z H5 Index,Z 1 Index,10.0,Equity Index,GBP,1.3385
+SCOG5C 107 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMZSDP 20250415 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+SCOF5C 100 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+HCF5 Index,HC1 Index,50.0,Equity Index,HKD,0.12747
+COH5 Comdty,CO1 Comdty,1000.0,Energy,USD,1.0
+NGG25 Comdty,NG1 Comdty,10000.0,Energy,USD,1.0
+LMNIDP 20250414 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+JWLK25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+JWLG25 Comdty,JWL1 Comdty,1000.0,Energy,USD,1.0
+AZBJ25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+CTH5 Comdty,CT1 Comdty,50000.0,Agriculture,USD,1.0
+LMAHDP 20250115 Comdty,LMAHDY Comdty,25.0,Base Metal,USD,1.0
+AZBG25 Comdty,AZB1 Comdty,1000.0,Energy,USD,1.0
+BBWG25 Comdty,BBW1 Comdty,1000.0,Energy,USD,1.0
+ZZBG5 Comdty,ZZB1 Comdty,100.0,Chemicals,USD,1.0
+LMNIDP 20250115 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250410 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMNIDP 20250409 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250416 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250409 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250403 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+CJPG25 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+LMNIDP 20250408 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+MCYF5 Index,MCY1 Index,25.0,Equity Index,USD,1.0
+LMZSDP 20250408 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+LMZSDP 20250407 Comdty,LMZSDY Comdty,25.0,Base Metal,USD,1.0
+RTYH5 Index,RTY1 Index,50.0,Equity Index,USD,1.0
+LMNIDP 20250407 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250407 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+JYF5 Curncy,JY1 Curncy,12500000.0,Currency,USD,1.0
+CJPZ24 Comdty,CJP1 Comdty,1000.0,Energy,USD,1.0
+KOH5 Comdty,KO1 Comdty,25.0,Agriculture,MYR,0.244
+LMCADP 20250205 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250204 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMCADP 20250130 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
+LMNIDP 20250402 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+SCOZ4C 110 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+SCOZ4 Comdty,SCO1 Comdty,100.0,Ferrous,USD,1.0
+LMNIDP 20250331 Comdty,LMNIDY Comdty,6.0,Base Metal,USD,1.0
+LMCADP 20250331 Comdty,LMCADY Comdty,25.0,Base Metal,USD,1.0
